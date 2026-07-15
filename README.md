@@ -48,7 +48,7 @@ a rogue public Wi-Fi, and tracks two simple metrics on a dashboard:
 ## Full write-up
 
 The complete documentation and step-by-step build of this project is on my
-blog: **<https://your-blog.example>**
+blog: **<https://blog.corentinbringer.fr/blog/faux-portail-captif-raspberry-pi/#créer-le-point-daccès-wi-fi>**
 
 See also [`dashboard/README.md`](dashboard/README.md) for deploying the
 dashboard.

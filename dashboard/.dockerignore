@@ -1,0 +1,6 @@
+Dockerfile
+.dockerignore
+docker-compose.yml
+schema.sql
+README.md
+*.log
